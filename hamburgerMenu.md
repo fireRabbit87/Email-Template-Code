@@ -1,4 +1,4 @@
-## View online link
+## Hamburger Menu
 
 This will allow you to create a hamburger menu, just like youw would see on a normal website.Typically used for when you have a menu in a email. Instead of hiding the menu, you can use this to display it without doing any fancy show/hide functionality.
 
