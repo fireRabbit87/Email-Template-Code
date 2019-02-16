@@ -1,6 +1,6 @@
 ## Simple Button
 
-aaa
+This is a super simple button.
 
 ```html
 <table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff">
@@ -31,3 +31,9 @@ border-radius:XXpx;
 -moz-border-radius:XXpx;
 ```
 You can read more about [border radius](https://www.w3schools.com/cssref/css3_pr_border-radius.asp).
+
+If you want to make the button a fit your mobile at 100%, on line #7, add:
+```html
+class="container"
+```
+
