@@ -61,4 +61,4 @@ to
 <table cellspacing="0" cellpadding="0" border="0" class="container" align="left" width="200">
 ```
 
-**NOTE** depending on the amount of logos you'd like to link to, you may be required to change the width of the table.
+**NOTE:** depending on the amount of logos you'd like to link to, you may be required to change the width of the table.
