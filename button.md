@@ -30,7 +30,7 @@ By adjusting line number 7, you can enable this template to be a specific width 
       <table width="100%" cellspacing="0" cellpadding="0" border="0">
         <tr>
           <td align="left">
-            <table cellspacing="0" cellpadding="0" border="0" class="container">
+            <table width="350" cellspacing="0" cellpadding="0" border="0" class="container">
               <tr>
                 <td align="center" style="font-family:arial;font-size:16px;line-height:22px;color:#ffffff;padding:10px 40px;border-radius:7px;-webkit-border-radius:7px;-moz-border-radius:7px;" bgcolor="#222222" class="padclear">
                   <a href="#" target="_blank" style="color:#ffffff;" class="fullbutton">Full Mobilie Button</a>
