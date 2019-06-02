@@ -87,4 +87,4 @@ Again, want a button on the text column? Look no further.
 </tr>
 ```
 
-Want the standard 2 column layout? [Check this out] (https://raw.githubusercontent.com/fireRabbit87/Email-Template-Code/master/2ColumnLayout.md)
+Want the standard 2 column layout? [Check this out](https://raw.githubusercontent.com/fireRabbit87/Email-Template-Code/master/2ColumnLayout.md)
